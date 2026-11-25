@@ -1,7 +1,7 @@
 import os
 from pathlib import Path
 
-LINE = "My fridge has one job, yet the leftovers in the back have formed a civilization older than my career."
+LINE = "Dear fridge: you have one job, but the yogurt in the back has survived three managers, two reorganizations, and my entire character arc."
 
 
 def main() -> None:
